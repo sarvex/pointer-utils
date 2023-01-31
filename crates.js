@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["erasable","ptr_union","rc_borrow","rc_box","slice_dst"];

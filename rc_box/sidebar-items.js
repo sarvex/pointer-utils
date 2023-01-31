@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ArcBox","Known unique version of [`Arc`]."],["RcBox","Known unique version of [`Rc`]."]]};

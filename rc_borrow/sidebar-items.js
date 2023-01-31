@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ArcBorrow","Borrowed version of [`Arc`]."],["RcBorrow","Borrowed version of [`Rc`]."]]};
